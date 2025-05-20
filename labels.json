@@ -1,0 +1,50 @@
+[
+  {
+    "text": "PERSON_NAME",
+    "prefix_key": null,
+    "suffix_key": null,
+    "bg_color": "#FFCDD2"
+  },
+  {
+    "text": "EMAIL",
+    "prefix_key": null,
+    "suffix_key": null,
+    "bg_color": "#F8BBD0"
+  },
+  {
+    "text": "PHONE",
+    "prefix_key": null,
+    "suffix_key": null,
+    "bg_color": "#E1BEE7"
+  },
+  {
+    "text": "DEGREE",
+    "prefix_key": null,
+    "suffix_key": null,
+    "bg_color": "#D1C4E9"
+  },
+  {
+    "text": "UNIVERSITY",
+    "prefix_key": null,
+    "suffix_key": null,
+    "bg_color": "#C5CAE9"
+  },
+  {
+    "text": "JOB_TITLE",
+    "prefix_key": null,
+    "suffix_key": null,
+    "bg_color": "#BBDEFB"
+  },
+  {
+    "text": "COMPANY",
+    "prefix_key": null,
+    "suffix_key": null,
+    "bg_color": "#B3E5FC"
+  },
+  {
+    "text": "SKILL",
+    "prefix_key": null,
+    "suffix_key": null,
+    "bg_color": "#B2EBF2"
+  }
+]
