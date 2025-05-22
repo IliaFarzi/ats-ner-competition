@@ -37,7 +37,7 @@ Welcome to the ATS (Applicant Tracking System) NER competition! Participants wil
      ```
   3. Export your annotated data in JSONL format when time is up.
 
-> ⏱ **Time limit**: 1 hour
+> ⏱ **Time limit**: 0.5 hour
 
 ---
 
