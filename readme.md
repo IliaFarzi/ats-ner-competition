@@ -15,7 +15,7 @@ Welcome to the ATS (Applicant Tracking System) NER competition! Participants wil
 
 ---
 
-### 🚀 Phase 1: Annotation (60 minutes)
+### 🚀 Phase 1: Annotation (30 minutes)
 
 * **Objective**: Split the dataset, label as many resumes as possible, and export your annotations.
 * **Steps**:
